@@ -99,7 +99,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///C:/Users/Michael/scoop/apps/flutter/3.19.0/packages/flutter",
+      "rootUri": "file:///C:/Users/Michael/scoop/apps/flutter/current/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -111,13 +111,13 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///C:/Users/Michael/scoop/apps/flutter/3.19.0/packages/flutter_test",
+      "rootUri": "file:///C:/Users/Michael/scoop/apps/flutter/current/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "flutter_web_plugins",
-      "rootUri": "file:///C:/Users/Michael/scoop/apps/flutter/3.19.0/packages/flutter_web_plugins",
+      "rootUri": "file:///C:/Users/Michael/scoop/apps/flutter/current/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -243,7 +243,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///C:/Users/Michael/scoop/apps/flutter/3.19.0/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///C:/Users/Michael/scoop/apps/flutter/current/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -326,7 +326,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-03-02T08:43:04.504192Z",
+  "generated": "2024-03-02T15:11:44.291568Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }

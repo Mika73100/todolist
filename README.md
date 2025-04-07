@@ -1,16 +1,51 @@
-# todolist
+<div align="center">
+📝 Application ToDoList 📝
+🛠️ Réalisé avec Flutter
+📱 Description du projet
+Une application mobile permettant de gérer ses tâches quotidiennes grâce à une interface simple et colorée.
+Vous pouvez ajouter, modifier ou supprimer vos tâches, avec un affichage élégant et responsive.
 
-A new Flutter project.
+<br> <img src="https://github.com/TON_COMPTE/TON_REPO/raw/main/assets/todolist_preview.png" alt="aperçu de l'application" width="300"/> </div>
+🚀 Fonctionnalités
+✅ Ajout de tâches
 
-## Getting Started
+📝 Modification de tâches existantes
 
-This project is a starting point for a Flutter application.
+🗑️ Suppression de tâches
 
-A few resources to get you started if this is your first Flutter project:
+🌈 Interface claire et intuitive
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔁 Mise à jour en temps réel
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📦 Installation
+bash
+Copier
+Modifier
+git clone https://github.com/TON_COMPTE/TODOLIST-MASTER.git
+cd TODOLIST-MASTER
+flutter pub get
+flutter run
+Assurez-vous d’avoir Flutter installé : Installation Flutter
+
+📁 Structure du projet
+bash
+Copier
+Modifier
+TODOLIST-MASTER/
+├── android/        # Configuration Android
+├── ios/            # Configuration iOS
+├── lib/            # Code principal de l’application
+├── test/           # Fichiers de test
+├── web/            # Configuration Web
+├── windows/        # Support Windows
+├── pubspec.yaml    # Dépendances et configuration
+└── README.md       # Documentation du projet
+🙌 Remerciements
+Merci pour votre visite !
+Ce projet est un exercice personnel dans le cadre de mon apprentissage du développement d’applications mobiles avec Flutter.
+N’hésitez pas à me faire un retour, forker le projet ou y contribuer !
+
+<div align="center">
+⭐ Un petit like sur le repo fait toujours plaisir ! ⭐
+
+</div>

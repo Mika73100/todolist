@@ -1,7 +1,7 @@
 <div align="center">
-📝 Application ToDoList 📝
-🛠️ Réalisé avec Flutter
-📱 Description du projet
+📝 Application ToDoList 📝 <br>
+🛠️ Réalisé avec Flutter <br>
+📱 Description du projet <br>
 Une application mobile permettant de gérer ses tâches quotidiennes grâce à une interface simple et colorée.
 Vous pouvez ajouter, modifier ou supprimer vos tâches, avec un affichage élégant et responsive.
 

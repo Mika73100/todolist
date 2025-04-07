@@ -13,7 +13,7 @@ L'utilisateur peut **ajouter**, **modifier** ou **supprimer** ses tâches du jou
 
 <br>
 
-<img src="assets/646shots_so.png" alt="aperçu de l'application" width="300"/>
+<img src="listedetaches/646shots_so.png" alt="aperçu de l'application" width="300"/>
 
 </div>
 

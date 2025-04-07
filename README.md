@@ -13,7 +13,7 @@ L'utilisateur peut **ajouter**, **modifier** ou **supprimer** ses tâches du jou
 
 <br>
 
-<img src="todolist/646shots_so.png" alt="aperçu de l'application" width="300"/>
+<img src="646shots_so.png" alt="aperçu de l'application" width="300"/>
 
 </div>
 
